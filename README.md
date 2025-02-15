@@ -1,6 +1,6 @@
 # vba-flower-memory-game
 
-This is my uni project made in Excel in Visual Basic. It was inspired by memory card game or just Memo game.
+This is my uni project made in Excel with Visual Basic. It was inspired by memory card game or just Memo game.
 
 The after-game screen look:
 
